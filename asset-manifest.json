@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maxima-react/static/css/main.073c9b0a.css",
+    "main.js": "/maxima-react/static/js/main.af05b029.js",
+    "static/js/787.0ae16e6b.chunk.js": "/maxima-react/static/js/787.0ae16e6b.chunk.js",
+    "static/media/logo.svg": "/maxima-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/maxima-react/index.html",
+    "main.073c9b0a.css.map": "/maxima-react/static/css/main.073c9b0a.css.map",
+    "main.af05b029.js.map": "/maxima-react/static/js/main.af05b029.js.map",
+    "787.0ae16e6b.chunk.js.map": "/maxima-react/static/js/787.0ae16e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af05b029.js"
+  ]
+}
