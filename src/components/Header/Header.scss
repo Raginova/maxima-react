@@ -1,0 +1,32 @@
+.Header-container {
+    top: 0;
+    height: 120px;
+    width: 100%;
+    background-color: #F9EBC8;
+    margin: 0;
+    color: #282c34;
+    display: flex;
+    z-index: 1;
+    position: fixed;
+}
+
+.Logo {
+    display: flex;
+    flex: 0 0 80%;
+    justify-content: flex-start;
+
+    &__img {
+        margin-top: -20px;
+        height: 180px;
+        width: 210px;
+    }
+
+    &__h {
+        margin-top: 18px;
+        font-family: "Dancing Script";
+        font-size: 80px;
+    }
+
+}
+
+

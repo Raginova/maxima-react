@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Dancing Script';
+  src: url('./components/Font/DancingScript-Regular.woff2') format('woff2'),
+      url('./components/Font/DancingScript-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-Bold.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-ExtraLight.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-ExtraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-BlackIt.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-BlackIt.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-Black.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-ExtraLightIt.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-ExtraLightIt.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-BoldIt.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-BoldIt.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-Regular.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-Light.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-SemiBold.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-SemiBoldIt.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-SemiBoldIt.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-It.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-It.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./components/Font/SourceSerifPro-LightIt.woff2') format('woff2'),
+      url('./components/Font/SourceSerifPro-LightIt.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
