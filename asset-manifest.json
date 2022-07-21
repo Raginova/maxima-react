@@ -1,16 +1,40 @@
 {
   "files": {
-    "main.css": "/maxima-react/static/css/main.073c9b0a.css",
-    "main.js": "/maxima-react/static/js/main.af05b029.js",
-    "static/js/787.0ae16e6b.chunk.js": "/maxima-react/static/js/787.0ae16e6b.chunk.js",
-    "static/media/logo.svg": "/maxima-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/maxima-react/static/css/main.ec20878e.css",
+    "main.js": "/maxima-react/static/js/main.d76ccac1.js",
+    "static/media/logo.png": "/maxima-react/static/media/logo.2eb5bca88da59f5da556.png",
+    "static/media/SourceSerifPro-SemiBold.woff": "/maxima-react/static/media/SourceSerifPro-SemiBold.cbeb32effb7b277ca4ae.woff",
+    "static/media/SourceSerifPro-Bold.woff": "/maxima-react/static/media/SourceSerifPro-Bold.189a1ebecc44b81c520a.woff",
+    "static/media/SourceSerifPro-Light.woff": "/maxima-react/static/media/SourceSerifPro-Light.3ac8235d154a855cad33.woff",
+    "static/media/SourceSerifPro-Black.woff": "/maxima-react/static/media/SourceSerifPro-Black.fe47192a8df230df93b2.woff",
+    "static/media/SourceSerifPro-Regular.woff": "/maxima-react/static/media/SourceSerifPro-Regular.74288e26bcb282501e26.woff",
+    "static/media/SourceSerifPro-ExtraLight.woff": "/maxima-react/static/media/SourceSerifPro-ExtraLight.3c47c8c711a13fd42049.woff",
+    "static/media/SourceSerifPro-BoldIt.woff": "/maxima-react/static/media/SourceSerifPro-BoldIt.f37b5c1e63dd7f77cf39.woff",
+    "static/media/SourceSerifPro-SemiBoldIt.woff": "/maxima-react/static/media/SourceSerifPro-SemiBoldIt.6ae26aa3318bcd685d6a.woff",
+    "static/media/SourceSerifPro-LightIt.woff": "/maxima-react/static/media/SourceSerifPro-LightIt.6500b6a8e6f4de507f90.woff",
+    "static/media/SourceSerifPro-SemiBold.woff2": "/maxima-react/static/media/SourceSerifPro-SemiBold.7206a8702428956130d4.woff2",
+    "static/media/SourceSerifPro-It.woff": "/maxima-react/static/media/SourceSerifPro-It.2623c6011095ff2b1bd8.woff",
+    "static/media/SourceSerifPro-Bold.woff2": "/maxima-react/static/media/SourceSerifPro-Bold.ef6b4b426176d2cff316.woff2",
+    "static/media/SourceSerifPro-BlackIt.woff": "/maxima-react/static/media/SourceSerifPro-BlackIt.b00e8d12290cc87421e7.woff",
+    "static/media/SourceSerifPro-ExtraLightIt.woff": "/maxima-react/static/media/SourceSerifPro-ExtraLightIt.bf18fa22cb036e4c9b5f.woff",
+    "static/media/SourceSerifPro-Light.woff2": "/maxima-react/static/media/SourceSerifPro-Light.91ddcab1a9836df8b308.woff2",
+    "static/media/SourceSerifPro-Black.woff2": "/maxima-react/static/media/SourceSerifPro-Black.cff523de4d582e5adac7.woff2",
+    "static/media/SourceSerifPro-Regular.woff2": "/maxima-react/static/media/SourceSerifPro-Regular.2e661663e50403ddd59a.woff2",
+    "static/media/SourceSerifPro-ExtraLight.woff2": "/maxima-react/static/media/SourceSerifPro-ExtraLight.3da6840d1bde50d91905.woff2",
+    "static/media/SourceSerifPro-BoldIt.woff2": "/maxima-react/static/media/SourceSerifPro-BoldIt.2048684c54304af59c6c.woff2",
+    "static/media/SourceSerifPro-SemiBoldIt.woff2": "/maxima-react/static/media/SourceSerifPro-SemiBoldIt.c0af0ddc93e3fbb64035.woff2",
+    "static/media/SourceSerifPro-LightIt.woff2": "/maxima-react/static/media/SourceSerifPro-LightIt.1bbe83a221fbbf598ffb.woff2",
+    "static/media/SourceSerifPro-It.woff2": "/maxima-react/static/media/SourceSerifPro-It.91a5805b46120e96f696.woff2",
+    "static/media/SourceSerifPro-BlackIt.woff2": "/maxima-react/static/media/SourceSerifPro-BlackIt.27d4b1412356e1c9c323.woff2",
+    "static/media/SourceSerifPro-ExtraLightIt.woff2": "/maxima-react/static/media/SourceSerifPro-ExtraLightIt.301bc925c08bb79ac33c.woff2",
+    "static/media/DancingScript-Regular.woff": "/maxima-react/static/media/DancingScript-Regular.7ebe4e34b92e5da79a75.woff",
+    "static/media/DancingScript-Regular.woff2": "/maxima-react/static/media/DancingScript-Regular.982a00ef25e8b6a6a2c4.woff2",
     "index.html": "/maxima-react/index.html",
-    "main.073c9b0a.css.map": "/maxima-react/static/css/main.073c9b0a.css.map",
-    "main.af05b029.js.map": "/maxima-react/static/js/main.af05b029.js.map",
-    "787.0ae16e6b.chunk.js.map": "/maxima-react/static/js/787.0ae16e6b.chunk.js.map"
+    "main.ec20878e.css.map": "/maxima-react/static/css/main.ec20878e.css.map",
+    "main.d76ccac1.js.map": "/maxima-react/static/js/main.d76ccac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.af05b029.js"
+    "static/css/main.ec20878e.css",
+    "static/js/main.d76ccac1.js"
   ]
 }
