@@ -1,0 +1,49 @@
+.works-card {
+    width: 100%;
+    background-color: #c2c2c27e;
+    font-family: "Source Serif Pro";
+    border-style: ridge;
+    border-radius: 5%;
+    box-shadow: 0 2px 20px 2px grey;
+    transition: .5s ease-in-out;
+    position: relative;
+    flex: 0 0 22%;
+
+    &__h{
+        margin-left: 10px;
+        font-size: 32px;
+    }
+
+    &__volum{
+        margin-left: 20px;
+        font-size: 28px;
+    }
+
+    &__img{
+        height: calc( 500 / 1920 *100vw);
+        width: 100%;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-radius: 5%;
+
+    }
+
+    &:hover {
+        transform: scale(115%);
+    } 
+}
+
+@media screen and (max-width: 760px) and (min-width: 320px) {
+
+    .works-card {
+        height: 450px;
+        flex: 0 0 43%;
+
+        &__img {
+            height: 300px;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+    }
+}

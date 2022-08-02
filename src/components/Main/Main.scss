@@ -1,0 +1,126 @@
+.main {
+    width: 100%;
+    margin: 120px 0 0 ;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    background-color: #e4dccf;
+    font-family: 'Source Serif Pro';
+    display: block;
+   
+}
+
+.card-1 {
+    width: calc( 1560 / 1920 * 100% );
+    margin-bottom: 60px;
+    margin-left: calc( 250  / 1920 * 100% );
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    border-style: ridge;
+    border-color: #A0BCC2;
+    display: flex;
+    position: relative;
+
+
+    &__about {
+        flex: 0 0 70%;
+        margin-left: 20px;
+
+
+        &-h {
+            font-size: 32px;
+        }
+
+        &-tell {
+            font-size: 26px;
+        }
+    }
+
+    &__img {
+        width: 250px;
+        height: 330px;
+        flex: 0 0 20%;
+        margin-top: -45px;
+        margin-left: calc( 1150 / 1560 * 100%);
+        padding-top: -20px;
+        position: absolute;
+        z-index: 1;
+    }
+
+    &::after {
+        content: "";
+        width: 100%;
+        height: 110%;
+        margin-left: -10;
+        padding-top: 0;
+        padding-left: 0px;
+        position: absolute;
+        transform: rotate(2.5deg);
+        border-style: ridge;
+        border-color: #389c62;
+    }
+}
+
+.card-2 {
+    width: calc( 1560 / 1920 * 100% );
+    margin-top: 150px;
+    margin-bottom: 60px;
+    margin-left: calc( 60  / 1920 * 100% );
+    padding-top: 0px;
+    padding-bottom: 40px;
+    padding-left: 0px;
+    border-style: ridge;
+    border-color: #A0BCC2;
+    display: flex;
+    position: relative;
+
+
+    &__about {
+        flex: 0 0 70%;
+        margin-left: 20px;
+
+
+        &-h {
+            font-size: 32px;
+        }
+
+        &-tell {
+            font-size: 26px;
+        }
+    }
+
+    &__img {
+        width: 250px;
+        height: 330px;
+        flex: 0 0 20%;
+        margin-top: -45px;
+        margin-left: calc( 1150 / 1560 * 100%);
+        padding-top: -20px;
+        position: absolute;
+        z-index: 1;
+    }
+
+    &::after {
+        content: "";
+        width: 100%;
+        height: 110%;
+        margin-left: -10;
+        padding-top: 0;
+        padding-left: 0px;
+        position: absolute;
+        transform: rotate(2.5deg);
+        border-style: ridge;
+        border-color: #389c62;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 320px) {
+
+    .card-1 {
+        margin: auto;
+    }
+
+    .card-2 {
+        margin: 120px auto;
+    }
+}
