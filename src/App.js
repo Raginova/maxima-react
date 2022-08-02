@@ -1,13 +1,21 @@
 import './App.scss';
-import Header from './components/Header/Header';
-import Footer from "./components/Footer/Footer";
+import { Route, Routes } from 'react-router-dom';
+import IndexPage from './pages/IndexPage';
+import ReviewsPage from './pages/ReviewsPage';
+import DefaultLayout from './layouts/DefaultLayout/DefaultLayout';
+import WorksPage from './pages/WorksPage';
+
 
 function App() {
     return (
-        <div className='App'>
-            <Header />
-            <Footer />
-        </div>
+        <Routes>
+            <Route path={'/'} element={<DefaultLayout/>}>
+                <Route index element={<IndexPage/>} />
+                <Route path={'reviews'} element={<ReviewsPage/>} />
+                <Route path={'works'} element={<WorksPage />} />
+            </Route>
+        </Routes>
+
     );
 }
 
