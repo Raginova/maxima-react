@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/maxima-react/static/css/main.1558e35e.css",
+    "main.css": "/maxima-react/static/css/main.bf745bca.css",
     "main.js": "/maxima-react/static/js/main.b98f87f3.js",
     "static/media/logo.png": "/maxima-react/static/media/logo.2eb5bca88da59f5da556.png",
     "static/media/SourceSerifPro-SemiBold.woff": "/maxima-react/static/media/SourceSerifPro-SemiBold.cbeb32effb7b277ca4ae.woff",
@@ -30,11 +30,11 @@
     "static/media/DancingScript-Regular.woff": "/maxima-react/static/media/DancingScript-Regular.7ebe4e34b92e5da79a75.woff",
     "static/media/DancingScript-Regular.woff2": "/maxima-react/static/media/DancingScript-Regular.982a00ef25e8b6a6a2c4.woff2",
     "index.html": "/maxima-react/index.html",
-    "main.1558e35e.css.map": "/maxima-react/static/css/main.1558e35e.css.map",
+    "main.bf745bca.css.map": "/maxima-react/static/css/main.bf745bca.css.map",
     "main.b98f87f3.js.map": "/maxima-react/static/js/main.b98f87f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1558e35e.css",
+    "static/css/main.bf745bca.css",
     "static/js/main.b98f87f3.js"
   ]
 }
