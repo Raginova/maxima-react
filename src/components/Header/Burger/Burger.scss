@@ -87,7 +87,7 @@
     background-color: #7d9d9c;
     height: 100vh;
     transition: cubic-bezier(0.39, 0.58, 0.57, 1) 0.5s transform;
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(-20, 0, 0);
     z-index: 7;
     display: flex;
     flex-direction: column;
@@ -131,4 +131,14 @@
 .blur_opened {
     opacity: 1;
     pointer-events: all;
+}
+
+@media screen and (max-width: 760px) and (min-width: 320px) {
+    .aside__link {
+        font-size: 12px;
+    }
+
+    .menu__opened {
+        width: calc(300 / 1920 * 100%);
+    }
 }

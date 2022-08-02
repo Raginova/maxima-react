@@ -36,8 +36,10 @@
 @media screen and (max-width: 760px) and (min-width: 320px) {
 
     .works-card {
-        height: 450px;
+        height: 535px;
         flex: 0 0 43%;
+        gap: 20px 10px;
+        padding-bottom: 60px;
 
         &__img {
             height: 350px;
